@@ -17,6 +17,7 @@ The quality of extraction is much better than BOW LDA model, with niche topics l
 We should be able to furthur generalise and reduce the number of topics, if we wish to do so.
 The viz looks as follows:
 <img width="392" alt="bert_topic_model" src="https://user-images.githubusercontent.com/33604354/132369060-d4e6d2fd-a012-4497-9678-70315d4af542.PNG">
+
 Even though it looks like there are a lot of overlapping topics, on zooming in we can see these are mutually exclusive topics and very niche topics.
 As mentioned above, we can reduce the number of topics and increase the size of these topics/bubbles
 
